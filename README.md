@@ -1,0 +1,1 @@
+This repository demonstrates a common Elixir coding error: omitting the `end` keyword after an `if` statement within an `Enum.reduce` function that uses `throw`.  The missing `end` leads to a syntax error. The solution shows how to correctly structure the code to avoid this error.
